@@ -26,7 +26,7 @@ Arthii.html         # Main file with HTML examples images/            # Folder c
 ## 🌐 How to View
 You can open the project locally in any web browser:
 1. Download or clone the repository.
-2. Open `index.html` in your browser.
+2. Open `Arthii.html` in your browser.
 
 ```bash
 git clone https://github.com/ArthiR/Offora-Tasks-by-Arthi.git
