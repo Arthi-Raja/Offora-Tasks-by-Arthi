@@ -21,7 +21,7 @@ Each tag includes a short explanation and an example of how it’s used in a web
 
 ## 🧱 Project Structure
 
-index.html         # Main file with HTML examples images/            # Folder containing example images (if any) README.md          # Project documentation (this file)
+Arthii.html         # Main file with HTML examples images/            # Folder containing example images (if any) README.md          # Project documentation (this file)
 
 ## 🌐 How to View
 You can open the project locally in any web browser:
